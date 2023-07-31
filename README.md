@@ -7,3 +7,4 @@ is enough going on behind the scenes to hopefully demonstrate the different thin
 reduce in this code to make it more efficient and repeat less similar code, but for what it is, it gets the job done. 
 
 To see the app in action on my PC, download and watch the video labeled as: 2023-07-30 20-11-05.mkv
+The zip file is named ProjectZip
